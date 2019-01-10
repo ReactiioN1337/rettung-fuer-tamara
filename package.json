@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-tamara",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReactiioN1337/rettung-fuer-tamara"
+  },
+  "author": {
+    "name": "ReactiioN",
+    "email": "mail@reactiion.net",
+    "url": "https://reactiion.net"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "md5-file": "^4.0.0"
+  }
+}
